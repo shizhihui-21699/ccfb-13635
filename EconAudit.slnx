@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EconAudit.Core/EconAudit.Core.csproj" />
+    <Project Path="src/GameSim/GameSim.csproj" />
+  </Folder>
+</Solution>

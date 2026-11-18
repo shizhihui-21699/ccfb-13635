@@ -1,0 +1,13 @@
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/bin/Debug/net11.0/EconAudit.Core.deps.json
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/bin/Debug/net11.0/EconAudit.Core.dll
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/bin/Debug/net11.0/EconAudit.Core.pdb
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.AssemblyInfoInputs.cache
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.AssemblyInfo.cs
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.csproj.CoreCompileInputs.cache
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.sourcelink.json
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.dll
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/refint/EconAudit.Core.dll
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudit.Core.pdb
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/ref/EconAudit.Core.dll
+/Users/shizhihui/ccfb/runs/13635/workspace/src/EconAudit.Core/obj/Debug/net11.0/EconAudi.26968C8B.Up2Date
